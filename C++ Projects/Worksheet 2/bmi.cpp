@@ -1,3 +1,4 @@
+// bmi.cpp was given in the worksheet
 #include<iostream>
 #include <cmath>
 using namespace std;

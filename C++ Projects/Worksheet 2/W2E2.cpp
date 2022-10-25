@@ -1,4 +1,4 @@
-// denis: Modified BMI program to insert a person into 4 categories
+// denis: Modified BMI (bmi.cpp) program that beside of computing the BMI of a person, also classifies the person into one of the 4 categories
 #include<iostream>
 #include <cmath>
 using namespace std;

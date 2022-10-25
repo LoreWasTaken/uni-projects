@@ -1,4 +1,4 @@
-// denis: Program that asks for the quantity of fuel(L) in a car and prints the price that has to be paid
+// denis: Program that asks for the quantity of fuel (in liters) in a car and prints the price that has to be paid
 #include <iostream>
 using namespace std;
 

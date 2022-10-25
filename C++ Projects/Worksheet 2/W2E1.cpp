@@ -1,3 +1,4 @@
+// denis: Change of the first programs of Worksheet1 (W1E1, W1E2, W1E3, W1E4) printing also a message stating if the student passed or failed
 #include "iostream"
 using namespace std;
 
