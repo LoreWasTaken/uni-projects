@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Programacao" targetName="F1E10" />
+      <config projectName="Programacao" targetName="F5E16" />
+      <config projectName="Programacao" targetName="F5E15" />
+      <config projectName="Programacao" targetName="F5E14" />
+      <config projectName="Programacao" targetName="F5E13" />
+      <config projectName="Programacao" targetName="F5E12" />
+      <config projectName="Programacao" targetName="F5E11" />
+      <config projectName="Programacao" targetName="F5E10" />
+      <config projectName="Programacao" targetName="F5E17" />
+      <config projectName="Programacao" targetName="F1E2" />
+      <config projectName="Programacao" targetName="F2E1" />
+      <config projectName="Programacao" targetName="F1E3" />
+      <config projectName="Programacao" targetName="F2E2" />
+      <config projectName="Programacao" targetName="F3E1" />
+      <config projectName="Programacao" targetName="F1E4" />
+      <config projectName="Programacao" targetName="F2E3" />
+      <config projectName="Programacao" targetName="F3E2" />
+      <config projectName="Programacao" targetName="F4E1" />
+      <config projectName="Programacao" targetName="F1E5" />
+      <config projectName="Programacao" targetName="F2E4" />
+      <config projectName="Programacao" targetName="F3E3" />
+      <config projectName="Programacao" targetName="F4E2" />
+      <config projectName="Programacao" targetName="F5E1" />
+      <config projectName="Programacao" targetName="F1E1" />
+      <config projectName="Programacao" targetName="F5E6" />
+      <config projectName="Programacao" targetName="F5E7" />
+      <config projectName="Programacao" targetName="F5E8" />
+      <config projectName="Programacao" targetName="F5E9" />
+      <config projectName="Programacao" targetName="F1E6" />
+      <config projectName="Programacao" targetName="F2E5" />
+      <config projectName="Programacao" targetName="F3E4" />
+      <config projectName="Programacao" targetName="F4E3" />
+      <config projectName="Programacao" targetName="F5E2" />
+      <config projectName="Programacao" targetName="F1E7" />
+      <config projectName="Programacao" targetName="F2E6" />
+      <config projectName="Programacao" targetName="F3E5" />
+      <config projectName="Programacao" targetName="F4E4" />
+      <config projectName="Programacao" targetName="F5E3" />
+      <config projectName="Programacao" targetName="F1E8" />
+      <config projectName="Programacao" targetName="F2E7" />
+      <config projectName="Programacao" targetName="F4E5" />
+      <config projectName="Programacao" targetName="F5E4" />
+      <config projectName="Programacao" targetName="F1E9" />
+      <config projectName="Programacao" targetName="F2E8" />
+      <config projectName="Programacao" targetName="F4E6" />
+      <config projectName="Programacao" targetName="F5E5" />
+      <config projectName="Programacao" targetName="HelloWorld" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be0c431a-0d09-460b-80c2-969308c64e03" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectId" id="2FbG1DFf1jqFNHeYvzzY4LDdD3L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "C:/Users/denka/OneDrive/Documentos/Uni/EEC/P/Projetos/C++/TestesExemplos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "structure.view.defaults.are.configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\denka\OneDrive\Documentos\Uni\EEC\P\Projetos\C++\Programacao\Ficha 4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.F5E12">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F1E1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F1E1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F1E1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F1E10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F1E10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F1E10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F1E2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F1E2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F1E2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F1E3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F1E3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F1E3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F1E4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F1E4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F1E4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F1E5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F1E5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F1E5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F1E6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F1E6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F1E6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F1E7" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F1E7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F1E7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F1E8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F1E8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F1E8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F1E9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F1E9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F1E9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F2E1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F2E1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F2E1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F2E2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F2E2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F2E2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F2E3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F2E3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F2E3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F2E4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F2E4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F2E4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F2E5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F2E5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F2E5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F2E6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F2E6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F2E6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F2E7" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F2E7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F2E7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F2E8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F2E8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F2E8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F3E1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F3E1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F3E1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F3E2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F3E2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F3E2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F3E3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F3E3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F3E3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F3E4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F3E4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F3E4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F3E5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F3E5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F3E5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F4E1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F4E1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F4E1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F4E2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F4E2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F4E2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F4E3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F4E3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F4E3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F4E4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F4E4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F4E4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F4E5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F4E5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F4E5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F4E6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F4E6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F4E6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E11" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E12" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E12">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E13" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E13" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E13">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E14" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E14" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E14">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E15" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E15" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E15">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E16" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E16" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E16">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E17" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E17" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E17">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E7" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F5E9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="F5E9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="F5E9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacao" TARGET_NAME="HelloWorld" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programacao" RUN_TARGET_NAME="HelloWorld">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.F1E1" />
+      <item itemvalue="CMake Application.F1E10" />
+      <item itemvalue="CMake Application.F1E2" />
+      <item itemvalue="CMake Application.F1E3" />
+      <item itemvalue="CMake Application.F1E4" />
+      <item itemvalue="CMake Application.F1E5" />
+      <item itemvalue="CMake Application.F1E6" />
+      <item itemvalue="CMake Application.F1E7" />
+      <item itemvalue="CMake Application.F1E8" />
+      <item itemvalue="CMake Application.F1E9" />
+      <item itemvalue="CMake Application.F2E1" />
+      <item itemvalue="CMake Application.F2E2" />
+      <item itemvalue="CMake Application.F2E3" />
+      <item itemvalue="CMake Application.F2E4" />
+      <item itemvalue="CMake Application.F2E5" />
+      <item itemvalue="CMake Application.F2E6" />
+      <item itemvalue="CMake Application.F2E7" />
+      <item itemvalue="CMake Application.F2E8" />
+      <item itemvalue="CMake Application.F3E1" />
+      <item itemvalue="CMake Application.F3E2" />
+      <item itemvalue="CMake Application.F3E3" />
+      <item itemvalue="CMake Application.F3E4" />
+      <item itemvalue="CMake Application.F3E5" />
+      <item itemvalue="CMake Application.F4E1" />
+      <item itemvalue="CMake Application.F4E2" />
+      <item itemvalue="CMake Application.F4E3" />
+      <item itemvalue="CMake Application.F4E4" />
+      <item itemvalue="CMake Application.F4E5" />
+      <item itemvalue="CMake Application.F4E6" />
+      <item itemvalue="CMake Application.F5E1" />
+      <item itemvalue="CMake Application.F5E10" />
+      <item itemvalue="CMake Application.F5E11" />
+      <item itemvalue="CMake Application.F5E12" />
+      <item itemvalue="CMake Application.F5E13" />
+      <item itemvalue="CMake Application.F5E14" />
+      <item itemvalue="CMake Application.F5E15" />
+      <item itemvalue="CMake Application.F5E16" />
+      <item itemvalue="CMake Application.F5E17" />
+      <item itemvalue="CMake Application.F5E2" />
+      <item itemvalue="CMake Application.F5E3" />
+      <item itemvalue="CMake Application.F5E4" />
+      <item itemvalue="CMake Application.F5E5" />
+      <item itemvalue="CMake Application.F5E6" />
+      <item itemvalue="CMake Application.F5E7" />
+      <item itemvalue="CMake Application.F5E8" />
+      <item itemvalue="CMake Application.F5E9" />
+      <item itemvalue="CMake Application.HelloWorld" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be0c431a-0d09-460b-80c2-969308c64e03" name="Changes" comment="" />
+      <created>1664753154828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664753154828</updated>
+      <workItem from="1664753159899" duration="1291000" />
+      <workItem from="1664754920419" duration="59000" />
+      <workItem from="1664802356462" duration="9405000" />
+      <workItem from="1664883827664" duration="14277000" />
+      <workItem from="1664912166555" duration="1032000" />
+      <workItem from="1664920456167" duration="209000" />
+      <workItem from="1664920688063" duration="4382000" />
+      <workItem from="1664962759591" duration="1493000" />
+      <workItem from="1664969593296" duration="175000" />
+      <workItem from="1664992435647" duration="2397000" />
+      <workItem from="1665003315372" duration="157000" />
+      <workItem from="1665005317556" duration="254000" />
+      <workItem from="1665168270545" duration="1167000" />
+      <workItem from="1665173403049" duration="2298000" />
+      <workItem from="1665177328531" duration="85000" />
+      <workItem from="1665178262729" duration="11000" />
+      <workItem from="1665178717403" duration="654000" />
+      <workItem from="1665237328551" duration="2701000" />
+      <workItem from="1665406727789" duration="10110000" />
+      <workItem from="1665439206900" duration="4658000" />
+      <workItem from="1665444370248" duration="58000" />
+      <workItem from="1666011735487" duration="10256000" />
+      <workItem from="1666274851854" duration="2967000" />
+      <workItem from="1666289611338" duration="2894000" />
+      <workItem from="1666435811964" duration="21779000" />
+      <workItem from="1666531700384" duration="7371000" />
+      <workItem from="1666618732208" duration="8134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
