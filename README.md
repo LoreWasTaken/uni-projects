@@ -8,15 +8,15 @@ Started studying at [University of Aveiro][https://www.ua.pt/] in 2022.
 # C++ Projects
 Followed worksheets given by the university. Each worksheet introduces a new chapter.
 
-+ [Worksheet 1](uni-projects/C++ Projects/Worksheet 1/) - Introduction to C++
++ [Worksheet 1](https://github.dev/LoreWasTaken/uni-projects/blob/main/C%2B%2B%20Projects/Worksheet%201) - Introduction to C++
 
-+ [Worksheet 2](C++ Projects/Worksheet2) - Logical and Conditional operators
++ [Worksheet 2](https://github.dev/LoreWasTaken/uni-projects/blob/main/C%2B%2B%20Projects/Worksheet%202) - Logical and Conditional operators
 
-+ [Worksheet 3](C++ Projects/Worksheet3) - Repetition statements (Loops)
++ [Worksheet 3](https://github.dev/LoreWasTaken/uni-projects/blob/main/C%2B%2B%20Projects/Worksheet%203) - Repetition statements (Loops)
 
-+ [Worksheet 4](C++ Projects/Worksheet4) - Arrays & Menu-based programs
++ [Worksheet 4](https://github.dev/LoreWasTaken/uni-projects/blob/main/C%2B%2B%20Projects/Worksheet%204) - Arrays & Menu-based programs
 
-+ [Worksheet 5](C++ Projects/Worksheet5) - Functions
++ [Worksheet 5](https://github.dev/LoreWasTaken/uni-projects/blob/main/C%2B%2B%20Projects/Worksheet%205) - Functions
 	
 ---
 
