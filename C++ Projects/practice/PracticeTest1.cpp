@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-int main(void)
+int main()
 {
     // a) Identification
     cout << "a) Denis Sukhachev, 114862\n";
