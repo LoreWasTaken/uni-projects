@@ -1,5 +1,5 @@
 # University Projects
-I will be posting some projects that I'll be doing during my years in university. 
+I will be posting my work during my years in university.
 **This may, or may not, help you in any way.**
 
 Started studying at [University of Aveiro][https://www.ua.pt/] in 2022.
