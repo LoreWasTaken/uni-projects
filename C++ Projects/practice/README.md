@@ -4,7 +4,7 @@ The purpose of this is to solidify and understand C++ concepts better.
 
 # Tests
 + [Practice Test 1](/C%2B%2B%20Projects/practice/PracticeTest1.cpp)
-+ [Practice Test 1 - Using Functions](C%2B%2B%20Projects/practice/PracticeTest1F.cpp)
++ [Practice Test 1 - Using Functions](https://github.com/LoreWasTaken/uni-projects/blob/main/C%2B%2B%20Projects/practice/PracticeTest1F.cpp)
 	* <details><summary> Test Questions (Click to reveal): </summary>
 		a) Program needs to start by printing your Name and Number in the terminal.
 
