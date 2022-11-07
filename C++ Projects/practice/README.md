@@ -1,6 +1,7 @@
 # Practice
 I'll be posting some tests i'll be doing here.
 The purpose of this is to solidify and understand C++ concepts better.
+The things i post in here may or may not work so don't expect everything to work since i'll be just testing some stuff.
 
 # Tests
 + [Practice Test 1](/C%2B%2B%20Projects/practice/PracticeTest1.cpp)
