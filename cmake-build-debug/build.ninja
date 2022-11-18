@@ -1658,6 +1658,138 @@ build F6E2.exe: CXX_EXECUTABLE_LINKER__F6E2_Debug CMakeFiles/F6E2.dir/Ficha_6/Ex
   TARGET_PDB = F6E2.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target F6E3
+
+
+#############################################
+# Order-only phony target for F6E3
+
+build cmake_object_order_depends_target_F6E3: phony || CMakeFiles/F6E3.dir
+
+build CMakeFiles/F6E3.dir/Ficha_6/Exercicio_3.cpp.obj: CXX_COMPILER__F6E3_Debug C$:/Users/denka/OneDrive/Documentos/Uni/EEC/P/Projetos/C++/Programacao/Ficha$ 6/Exercicio$ 3.cpp || cmake_object_order_depends_target_F6E3
+  DEP_FILE = CMakeFiles\F6E3.dir\Ficha_6\Exercicio_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\F6E3.dir
+  OBJECT_FILE_DIR = CMakeFiles\F6E3.dir\Ficha_6
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target F6E3
+
+
+#############################################
+# Link the executable F6E3.exe
+
+build F6E3.exe: CXX_EXECUTABLE_LINKER__F6E3_Debug CMakeFiles/F6E3.dir/Ficha_6/Exercicio_3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\F6E3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = F6E3.exe
+  TARGET_IMPLIB = libF6E3.dll.a
+  TARGET_PDB = F6E3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target F6E4
+
+
+#############################################
+# Order-only phony target for F6E4
+
+build cmake_object_order_depends_target_F6E4: phony || CMakeFiles/F6E4.dir
+
+build CMakeFiles/F6E4.dir/Ficha_6/Exercicio_4.cpp.obj: CXX_COMPILER__F6E4_Debug C$:/Users/denka/OneDrive/Documentos/Uni/EEC/P/Projetos/C++/Programacao/Ficha$ 6/Exercicio$ 4.cpp || cmake_object_order_depends_target_F6E4
+  DEP_FILE = CMakeFiles\F6E4.dir\Ficha_6\Exercicio_4.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\F6E4.dir
+  OBJECT_FILE_DIR = CMakeFiles\F6E4.dir\Ficha_6
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target F6E4
+
+
+#############################################
+# Link the executable F6E4.exe
+
+build F6E4.exe: CXX_EXECUTABLE_LINKER__F6E4_Debug CMakeFiles/F6E4.dir/Ficha_6/Exercicio_4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\F6E4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = F6E4.exe
+  TARGET_IMPLIB = libF6E4.dll.a
+  TARGET_PDB = F6E4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target F7E1
+
+
+#############################################
+# Order-only phony target for F7E1
+
+build cmake_object_order_depends_target_F7E1: phony || CMakeFiles/F7E1.dir
+
+build CMakeFiles/F7E1.dir/Ficha_7/Exercicio_1.cpp.obj: CXX_COMPILER__F7E1_Debug C$:/Users/denka/OneDrive/Documentos/Uni/EEC/P/Projetos/C++/Programacao/Ficha$ 7/Exercicio$ 1.cpp || cmake_object_order_depends_target_F7E1
+  DEP_FILE = CMakeFiles\F7E1.dir\Ficha_7\Exercicio_1.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\F7E1.dir
+  OBJECT_FILE_DIR = CMakeFiles\F7E1.dir\Ficha_7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target F7E1
+
+
+#############################################
+# Link the executable F7E1.exe
+
+build F7E1.exe: CXX_EXECUTABLE_LINKER__F7E1_Debug CMakeFiles/F7E1.dir/Ficha_7/Exercicio_1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\F7E1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = F7E1.exe
+  TARGET_IMPLIB = libF7E1.dll.a
+  TARGET_PDB = F7E1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target F7E2
+
+
+#############################################
+# Order-only phony target for F7E2
+
+build cmake_object_order_depends_target_F7E2: phony || CMakeFiles/F7E2.dir
+
+build CMakeFiles/F7E2.dir/Ficha_7/Exercicio_2.cpp.obj: CXX_COMPILER__F7E2_Debug C$:/Users/denka/OneDrive/Documentos/Uni/EEC/P/Projetos/C++/Programacao/Ficha$ 7/Exercicio$ 2.cpp || cmake_object_order_depends_target_F7E2
+  DEP_FILE = CMakeFiles\F7E2.dir\Ficha_7\Exercicio_2.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\F7E2.dir
+  OBJECT_FILE_DIR = CMakeFiles\F7E2.dir\Ficha_7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target F7E2
+
+
+#############################################
+# Link the executable F7E2.exe
+
+build F7E2.exe: CXX_EXECUTABLE_LINKER__F7E2_Debug CMakeFiles/F7E2.dir/Ficha_7/Exercicio_2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\F7E2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = F7E2.exe
+  TARGET_IMPLIB = libF7E2.dll.a
+  TARGET_PDB = F7E2.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Teste1
 
 
@@ -1812,6 +1944,14 @@ build F6E1: phony F6E1.exe
 
 build F6E2: phony F6E2.exe
 
+build F6E3: phony F6E3.exe
+
+build F6E4: phony F6E4.exe
+
+build F7E1: phony F7E1.exe
+
+build F7E2: phony F7E2.exe
+
 build HelloWorld: phony HelloWorld.exe
 
 build Teste1: phony Teste1.exe
@@ -1824,7 +1964,7 @@ build Teste1: phony Teste1.exe
 #############################################
 # Folder: C:/Users/denka/OneDrive/Documentos/Uni/EEC/P/Projetos/C++/Programacao/cmake-build-debug
 
-build all: phony HelloWorld.exe F1E1.exe F1E2.exe F1E3.exe F1E4.exe F1E5.exe F1E6.exe F1E7.exe F1E8.exe F1E9.exe F1E10.exe F2E1.exe F2E2.exe F2E3.exe F2E4.exe F2E5.exe F2E6.exe F2E7.exe F2E8.exe F3E1.exe F3E2.exe F3E3.exe F3E4.exe F3E5.exe F4E1.exe F4E2.exe F4E3.exe F4E4.exe F4E5.exe F4E6.exe F5E1.exe F5E2.exe F5E3.exe F5E4.exe F5E5.exe F5E6.exe F5E7.exe F5E8.exe F5E9.exe F5E10.exe F5E11.exe F5E12.exe F5E13.exe F5E14.exe F5E15.exe F5E16.exe F5E17.exe F6E1.exe F6E2.exe Teste1.exe
+build all: phony HelloWorld.exe F1E1.exe F1E2.exe F1E3.exe F1E4.exe F1E5.exe F1E6.exe F1E7.exe F1E8.exe F1E9.exe F1E10.exe F2E1.exe F2E2.exe F2E3.exe F2E4.exe F2E5.exe F2E6.exe F2E7.exe F2E8.exe F3E1.exe F3E2.exe F3E3.exe F3E4.exe F3E5.exe F4E1.exe F4E2.exe F4E3.exe F4E4.exe F4E5.exe F4E6.exe F5E1.exe F5E2.exe F5E3.exe F5E4.exe F5E5.exe F5E6.exe F5E7.exe F5E8.exe F5E9.exe F5E10.exe F5E11.exe F5E12.exe F5E13.exe F5E14.exe F5E15.exe F5E16.exe F5E17.exe F6E1.exe F6E2.exe F6E3.exe F6E4.exe F7E1.exe F7E2.exe Teste1.exe
 
 # =============================================================================
 # Built-in targets
