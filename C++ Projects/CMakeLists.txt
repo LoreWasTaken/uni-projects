@@ -1,9 +1,8 @@
 cmake_minimum_required(VERSION 3.23)
-project(Programacao)
+project(Programming)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HelloWorld main.cpp)
 add_executable(W1E1 "Worksheet 1/W1E1.cpp")
 add_executable(W1E2 "Worksheet 1/W1E2.cpp")
 add_executable(W1E3 "Worksheet 1/W1E3.cpp")
