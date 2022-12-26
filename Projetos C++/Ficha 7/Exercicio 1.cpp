@@ -1,4 +1,5 @@
 // denis: Program to compute the Euclidean distance between to points
+// denis: Didn't finish the program, made a working one called Exercicio 1.1
 #include "iostream"
 #include "iomanip"
 #include "cmath"

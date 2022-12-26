@@ -1,4 +1,5 @@
 // denis: Program that is able to perform complex number arithmetic
+// denis: This program isn't working like it's asked to work, made another file named Exercicio 2.1 working, i think.
 #include "iostream"
 #include "iomanip"
 #include "cmath"
