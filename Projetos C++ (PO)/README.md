@@ -1,0 +1,2 @@
+Vão ser publicados aqui os guiões realizados na disciplina de Programação por Objetos. **__Neste momento ainda está incompleto.__** 
+*Guiões que terminam com um H significa que estão separados em header files, source files e um ficheiro main.*
